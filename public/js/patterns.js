@@ -74,8 +74,11 @@ sentencePatterns[4] = [
   'Reality has always been adjWith nPersonPlural whose nOurPlural are ppThingPrep nMass',
   'Our conversations with other nPersonPlural have led to a ing of adjPrefix adj consciousness',
   'Humankind has nothing to lose',
+  'Humankind has nothing but nMassBad to lose',
   'We are in the midst of a adj ing of nMass that will vOpenUp the nCosmos itself',
   'Who are we? Where on the great nPath will we be ppPerson?',
+  'Where are we fixedAdvPPlace? What adj nPath must we take to vtMass our nOurPlural?',
+  'Where are you ing? What will vtPerson the nTheXOf of your adj nPath?',
   'We are at a crossroads of nMass and nMassBad'
   // 'Even nProphet '
 ];
