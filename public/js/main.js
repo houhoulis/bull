@@ -236,5 +236,3 @@ $(document).ready(swapText());
 
 
 
-
-
