@@ -57,6 +57,13 @@ p {
   margin: 1em 0;
 }
 
+#footer {
+  font-size: small;
+  margin-top: 40px;
+  font-style: italic;
+  text-align: center;
+}
+
 em {
   font-weight: bold;
 }
